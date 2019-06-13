@@ -3,3 +3,11 @@ body {
     background-attachment: fixed;
     background-size: 100%;
 }
+
+.navbar {
+    background-color: #000000;
+}
+
+.lead {
+    font-size: 2em;
+}
